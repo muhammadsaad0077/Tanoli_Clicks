@@ -55,7 +55,7 @@ const Home = () => {
 
   return (
     <div>
-      <div className='tagline flex tracking-[-1px] md:tracking[10px] mx-[5px] md:mx-[330px] gap-[120px] whitespace-nowrap'>
+      <div className='tagline flex tracking-[-1px] md:tracking-[10px] mx-[5px] md:mx-[330px] gap-[120px] whitespace-nowrap'>
         <h1 className='my-[30px] hidden md:block animate-fadeIn'>BRING YOUR CREATIVITY</h1>
         <h1 className='my-[30px] mx-1 block md:hidden tracking-wider animate-fadeIn'>BRING YOUR</h1>
         <h1 className='my-[30px] hidden md:block tracking-[40px] animate-fadeIn'>TO LIFE</h1>
