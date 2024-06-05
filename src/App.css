@@ -10,13 +10,10 @@
 }
 
 .tagline{
-  letter-spacing: 10px;
   color: #696969;
 }
 
-.tagline2{
-  letter-spacing: 40px;
-}
+
 
 .footer{
   background: #000;
@@ -55,4 +52,8 @@
 .footer .row a i{
   font-size: 2em;
   margin: 0% 1%;
+}
+
+.mob{
+  margin-top: 30px;
 }
